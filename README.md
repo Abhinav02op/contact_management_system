@@ -55,6 +55,12 @@ This application provides a basic command-line interface for managing a list of 
  `DBConnection.java`: Handles the database connection logic.
  `Main.java`: Contains the main application logic and user interface.
 
+ ContactManagementSystem/
+  └── src/
+      ├── DBConnection.java
+      └── Main.java
+
+
  Notes
 
  This is a basic implementation and can be extended with more features (e.g., search, update contact details, better error handling).
@@ -63,4 +69,5 @@ This application provides a basic command-line interface for managing a list of 
  Author
 
 Abhinav Anil Shukla
+
 
